@@ -1,4 +1,4 @@
-package com.azin.TestingJavawithJUnit5Mockito;
+package com.azin.testing.java.with.junit5.mockito;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

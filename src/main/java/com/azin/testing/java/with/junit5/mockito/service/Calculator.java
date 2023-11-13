@@ -1,4 +1,4 @@
-package com.azin.TestingJavawithJUnit5Mockito.service;
+package com.azin.testing.java.with.junit5.mockito.service;
 
 public class Calculator {
 

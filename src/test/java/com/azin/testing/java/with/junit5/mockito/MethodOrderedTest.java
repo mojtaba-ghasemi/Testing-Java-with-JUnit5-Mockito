@@ -1,4 +1,4 @@
-package com.azin.TestingJavawithJUnit5Mockito;
+package com.azin.testing.java.with.junit5.mockito;
 
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
@@ -25,7 +25,7 @@ public class MethodOrderedTest {
     void testA(){
         System.out.println("Running test A");
         methodOrder.append("1");
- 
+
     }
 
     @Order(2)

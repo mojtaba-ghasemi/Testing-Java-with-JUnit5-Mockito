@@ -1,6 +1,6 @@
-package com.azin.TestingJavawithJUnit5Mockito;
+package com.azin.testing.java.with.junit5.mockito;
 
-import com.azin.TestingJavawithJUnit5Mockito.service.Calculator;
+import com.azin.testing.java.with.junit5.mockito.service.Calculator;
 import org.junit.jupiter.api.*;
 import org.springframework.boot.test.context.SpringBootTest;
 
